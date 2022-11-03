@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">db recycleview</string>
+    <string name="add_element">Добавить элемент</string>
+</resources>
